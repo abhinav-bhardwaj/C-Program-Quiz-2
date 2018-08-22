@@ -1,0 +1,420 @@
+Q> C is 
+   A) A third gen high level language	B) A machine language
+   C) An assembly language		D) All of above$
+
+Q> Web pages are written using 
+   A) FTP				B) HTTP
+   C) HTML      			D) URL$
+
+Q> What is the full form of IP ?
+   A) Interface Program			B) Interface Protocol
+   C) Internet Program			D) Internet Protocol$
+
+Q> What is the primary requisite of a good Computer Programmer ?
+   A) Mathematical Mind			B) Artistic Mind
+   C) Logical Mind 			D) Scientific Knowledge$
+
+Q> One byte is equivalent to 
+   A) 4 bits				B) 8 bits
+   C) 12 bits				D) 32 bits$			
+
+Q> Which of the following is not an Operating System ?
+   A) Dos				B) Unix
+   C) Linux				D) Java$
+
+Q> India's first Super Computer was 
+   A) Bhaskara 				B) Aryabhatta
+   C) Param				D) Chanakya$
+
+Q> When the Computer is switched on, the booting process performs the 
+   A) Integrity Test 			B) POST
+   C) Correct Funtioning Test  		D) Reliability Test$
+
+Q> The Theory of General Relativity was given by
+   A) Darwin				B) Einstein
+   C) Newton  				D) Mendel$
+
+Q> The most abundant element on the earth crust is
+   A) Calcium 				B) Aluminium
+   C) Silicon				D) Oxygen$
+
+Q> Who discovered the Neutron ?
+   A) JJ Thomson			B) Niels Bohr
+   C) James Chadwick			D) Ernest Rutherford$
+
+Q> Human bone does not contains 
+   A) Calcium				B) Carbon
+   C) Phosphorus			D) Oxygen$
+
+Q> Which of the following is called Laughing Gas popularly ?
+   A) Nitric Oxide			B) Nitrous Oxide
+   C) Nitogen Pentaoxide		D) Nitrogen$
+
+Q> "Atom can neither be created nor be destroyed" - This principle was given by 
+   A) Dalton				B) Bohr
+   C) Rutherford			D) Mendeleev$
+
+Q> Which metal remains in liquid state under the normal conditions ?
+   A) Lithium				B) Radium
+   C) Uranium				D) Mercury$
+
+Q> In India, who laid the foundation of Nuclear Science ?
+   A) JC Bose				B) HC Verma
+   C) Homi J Bhabha             	D) APJ Abdul Kalam$
+
+Q> Which of these organs helps in maintaining sense of balance or equilibrium in our body ?
+   A) Nose  				B) Ears
+   C) Tounge				D) Lungs$
+
+Q> During which year did World War 1 begin ?
+   A) 1921				B) 1934
+   C) 1914				D) 1907$
+
+Q> Which of these rivers, does not originate in India ?
+   A) Brahmaputra			B) Ravi
+   C) Gomti				D) Krishna$
+
+Q> Hitler Party which came into power in 1933 is known as
+   A) Labour Party			B) Nazi Party
+   C) Ku-Klux-Khan			D) Democratic Party$
+
+Q> Friction can be reduced by changing motion of an oject from
+   A) Sliding to Rolling 		B) Rolling to Sliding
+   C) Dynamic to Static			D) None of these$
+
+Q> Escape Velocity of a rocket fired from earth towards moon, is the velocity to get rid of the
+   A) Moon's Gravitational Pull		B) Centripetal Force due to earth's motion
+   C) Earth's Gravitaional Pull		D) Pressure of Atmosphere$
+
+Q> Heavy Water is
+   A) Rain Water			B) Tritium Oxide
+   C) Hydrogen Peroxide			D) Deuterium Oxide$
+
+Q> Which of the gas out of following is not known as Green House Gas ? 
+   A) Methane				B) Hydrogen
+   C) Nitrous Oxide			D) Carbon dioxide$
+
+Q> Which of the following metals forms an 'amalgam' with other metals ? 
+   A) Anitmony				B) Arsenic
+   C) Mercury				D) Lead$
+
+Q> Most soluble in water
+   A) Sugar				B) Camphor
+   C) Mercury				D) Common Salt$
+
+Q> Light Year is a unit of
+   A) Time				B) Light
+   C) Intensity of Light		D) Distance$
+
+Q> One Watt Hour is equivalent to
+   A) 6.3x10^3 J			B) 6.3x10^(-3) J
+   C) 3.6x10^3 J			D) 3.6x10^(-3) J$
+
+Q> Which of the following is a Palindrome number ?
+   A) 42042				B) 47692
+   C) 01123				D) 69496$
+
+Q> Of the following natural phenomenon, which one known in Sanskrit as "Deer's thrist" ?
+   A) Mirage				B) Halo
+   C) Earthshine			D) Rainbow$
+
+Q> Non-Stick cooking utensils are coated with
+   A) PVC				B) Black Paint
+   C) Teflon				D) Aluminium$
+
+Q> Which one of the following is used as lubricant ?
+   A) Silica				B) Mercury
+   C) Ether				D) Graphite$
+
+Q> The country with the highest environmental performance index is 
+   A) Switzerland			B) France
+   C) Denmark				D) Zurich$ 	
+ 			
+Q> Which of these countries is called 'The Land Of Rising Sun' ? 
+   A) China				B) Tibet
+   C) India 				D) Japan$
+
+Q> Which of these countries is called 'The Land of Midnight Sun' ?
+   A) Antartica				B) Norway
+   C) Switzerland			D) Zurich$
+
+Q> Photosynthesis generally takes place in which parts of plant ?
+   A) Steam and Leaf		
+   B) Bark and Leaf
+   C) Leaf and other chloroplast bearing parts
+   D) Roots and other chloroplast bearing parts$
+
+Q> Process of cell division takes place by
+   A) Heterosis			B) Mitosis
+   C) Fusion			D) All of these$
+
+Q> Ozone Hole refers to
+   A) Hole in ozone layer
+   B) Decrease in thickness of ozone layer in troposphere
+   C) Decrease in thickness of ozone layer in stratosphere
+   D) All of these$
+
+Q> The property of a substance to absorb moisture from air on exposure is called
+   A) Deliquescence 		B) Osmosis
+   C) Evaporation		D) Desiccation$
+
+Q> Mirage is due to
+   A) Magnetic disturbances in atmosphere
+   B) Depletion in Ozone layer in atmosphere
+   C) Unequal heating in different parts of atmosphere
+   D) Equal heating in different parts of atmosphere$
+
+Q> Let thin capillary tube be replaced with another tube of insufficeint length then, we find water
+   A) Will over flow		B) Will not rise
+   C) Depressed			D) Changes its meniscus$
+
+Q> The radioactive element most commonly detected in humans is
+   A) Potassium-40		B) Cobalt-60
+   C) Iodine-137		D) Plutonium-238$
+
+Q> The theory which advocates that living beings arise only from other living beings is termed as
+   A) ABiogenesis		B) Catastrophism
+   C) Cosmozoic			D) Bio-genesis$
+
+Q> The Power of Lens is measured in
+   A) aeon			B) lumen
+   C) diopters 			D) candela$
+
+Q> Sea water freezes at 
+   A) a slightly lower temperature than fresh water
+   B) a slightly higher temperature than fresh water
+   C) the same temprature than fresh water
+   D) seawater does not freezes$
+
+Q> Rain is falling vertcically downwards. To a man running east-wards, the rain will appear to be coming from
+   A) West			B) East
+   C) North-East		D) South-East$
+
+Q> Study of Life in outer space is known as 
+   A) endobiology		B) neobiology
+   C) exobiology		D) enterbiology$
+
+Q> The weight of an object will be minimum when it is placed at 
+   A) North Pole		B) South Pole
+   C) Equator			D) Center of Earth$
+
+Q> Light from the star, Alpha Centuri, which is nearest to Earth after Sun, reaches to Earth in
+   A) 4.2 seconds		B) 42 seconds
+   C) 4.2 years			D) 42 years$
+
+Q> Solar Eclipse will take place when
+   A) Sun is b/w Moon and Earth 
+   B) Moon is b/w Sun and Earth
+   C) Earth is b/w Sun and Moon
+   D) None of these$
+
+Q> Isotopes of an element contains
+   A) Same no. of protons but different no. of neutrons
+   B) Same no. of neutrons but different no. of protons
+   C) Equal no. of protons and electrons
+   D) Equal no. of nucleons$
+
+Q> Inside an aeroplane, flying at high altitude
+   A) Pressure is same as that of outside
+   B) Pressure inside is less than the pressure outside
+   C) Normal atmospheric pressure is maintained by the use of airpumps
+   D) Normal humidity and partial vacuum are maintained$
+
+Q> Sound travels with different speeds in different mediums. In what order does the velocity of sound increase in these mediums ?
+   A) Water,iron and air	B) Air,water and iron
+   C) Iron,air and water	D) Iron,water and air$
+
+Q> Rectifiers are used to convert
+   A) DC to AC				B) High volatge to low voltage
+   C) Low voltage to high voltage	D) AC to DC$
+
+Q> Magnetism at center of a bar magnet is
+   A) Zero		B) Minimum
+   C) Maximum		D) Minimum or Maximum$
+
+Q> Sound of frequency below 20 Hz is called
+   A) Supersonic	B) Ultrasonic
+   C) Infrasonic	D) None of these$
+
+Q> Kathakali is a folk dance prevalent in the state
+   A) Karnataka		B) Orissa
+   C) Manipur  		D) Kerala$
+
+Q> Madhubani, a style of folk paintings, is popular in the state
+   A) Bihar		B) Uttar Pradesh
+   C) Madhya Pardesh   	D) Rajasthan$
+
+Q> Who is the Father of Geometry ?
+   A) Aristotle 	B) Euclid
+   C) Pythagoras	D) Kepler$
+
+Q> The gas usually filled in electric bulb is
+   A) Nitrogen		B) Hydrogen
+   C) Carbon Dioxide    D) Oxygen$
+
+Q> The inert gas which is substituted for nitrogen in the air used by deep sea divers for breathing is
+   A) Argon		B) Krypton
+   C) Helium		D) Xenon$
+
+Q> Rabindranath Tagore's 'Jana Gana Mana' has been adopted as India's National Anthem. How many stanzas of the said song were adopted ?
+   A) Only First stanza		B) Whole song
+   C) Third and Fourth Stanza 	D) First and Second Stanza$
+
+Q> Speed of Sound is fastest in which media ?
+   A) Water		B) Air 
+   C) Vacuum		D) Iron$
+
+Q> Which sea creature has three hearts ? 
+   A) Blue Whale	B) Octopus
+   C) Hammer Fish 	D) Oyster$
+
+Q> For Galvanizing iron, which of the following metal is used ? 
+   A) Zinc			B) Copper
+   C) Lead			D) Aluminium$
+
+Q> What is the purest form of iron ?
+   A) Pig Iron		B) Cast Iron
+   C) Wrought Iron	D) Haematite$
+
+Q> Quartz crystals normally used in quartz clock is chemically 
+   A) Silicon Dioxide		B) Silicate
+   C) Germanium dioxide		D) Aluminium Oxide$
+
+Q> Which of the following is in liquid form at room temperature ?
+   A) Lithium		B) Francium
+   C) Sodium		D) Cerium$
+
+Q> The Filament of an electric bulb is made of
+   A) Tungsten		B) Nichrome
+   C) Graphite		D) Iron$
+
+Q> One Horse Power is equal to
+   A) 748 watts		B) 756 watts
+   C) 746 watts		D) 736 watts$
+
+Q> Which of the following is lightest metal ?
+   A) Mercury		B) Lead
+   C) Lithium		D) Silver$
+
+Q> What is the unit for measuring amplitude of a sound ?
+   A) Decibel		B) Hum
+   C) Cycles		D) Hertz$
+
+Q> One joule is equal to 
+   A) 10^5 ergs		B) 10^7 ergs
+   C) 10^3 ergs		D) 10^11 ergs$
+
+Q> Which type of fire extinguisher is used for petroleum fire ?
+   A) Liquid Type	B) Foam Type
+   C) Powder Type	D) Soda Type$
+
+Q> Major ingredient of the leather is
+   A) Collagen		B) Carbohydrates
+   C) Polymer		D) Nucleic Acid$
+
+Q> Gypsum is added to the cement clinker to
+   A) Increase Tensile strength
+   B) Facilitate formation of colloidal gel 
+   C) Decrease rate of settling of cement
+   D) Bind particle of calcium silicate$
+
+Q> Which among following is a positively charged particle emitted by radioactive element ?
+   A) Beta Ray		B) Alpha Ray
+   C) Cathode Ray       D) Gamma Ray$
+
+Q> In an atomic explosion, enormous energy is released which is due to 
+   A) Conversion of Chemical energy into Heat energy
+   B) Conversion of Mechanical energy into Nuclear energy
+   C) Conversion of Mass into Energy
+   D) Conversion of Neutron into Proton$
+
+Q> Mole is defined as the no. of atoms found in __g of Carbon-12 ?
+   A) 11		B) 14
+   C) 10		D) 12$
+
+Q> Rusting is a reaction consisting
+   A) Ionization	B) Oxidation
+   C) Reduction		D) None of them$
+
+Q> Age of most ancient Geological formations is estimated by
+   A) Uranium-Lead Method	B) Pottasium-Argon Method
+   C) C-14 Method		D) Radium-Silicon Method$
+
+Q> Which of the following has least penetrating power ?
+   A) All have Same		B) Beta Rays
+   C) Alpha Rays		D) Gamma Rays$
+
+Q> Which of the following has more penetrating power ?
+   A) Beta Rays			B) Gamma Rays
+   C) X-Rays			D) Alpha Rays$
+
+Q> What did 'X' means in 'X-Rays' ?
+   A) Unknown		B) Mark
+   C) Star		D) Cross$
+
+Q> Heat is transmitted from higher temperature to lower temperature through actual motion of molecules in
+   A) Conduction			B) Radiation
+   C) Both Conduction and Convection	D) Convection$
+
+Q> For a body floating in water, apparent weight is equal to
+   A) Actual weight				B) Zero
+   C) Weight of body - Weight of Liquid		D) Weight of body + Upward Thrust$
+
+Q> Firewall is used in Communication/Network for Protection from
+   A) WPS Attack		B) Unauthorized	Attack
+   C) Data Driven Attack	D) Virus Attack$
+
+Q> How many unit of electricity will be consued if 60 watt bulb is used for 5 hrs everyday for 30 days ?
+   A) 12 units		B) 3 units
+   C) 9 units		D) 7 units$
+
+Q> Which of the following is an example of Non-Volatile Memory ?
+   A) Cache Memory	B) ROM
+   C) RAM		D) All of above$
+
+Q> Binary Equivalent for 7 is
+   A) 100 	B) 101
+   C) 110	D) 111$
+
+Q> Apparatus used for detecting lie is known as
+   A) Pyrometer		B) Gyroscope
+   C) Polygrapgh	D) Pymograph$
+
+Q> Solar energy is due to
+   A) Fission Reaction		B) Combustion Reaction
+   C) Chemical Reaction		D) Fusion Reaction$
+
+Q> The Antiseptic compound present in Dettol is
+   A) Iodine		B) Cresol
+   C) Enloroxylenol	D) Biothionol$
+
+Q> Electric transformers are used to 
+   A) Resist Current	B) Regulate Current
+   C) Serve as Fuse	D) Change Voltage$
+
+Q> Myopia is a defect of vision caused by eye-ball becoming larger, person cannot see
+   A) Distant Objects		B) Nearer Objects
+   C) Very close Objects	D) Anything$
+
+Q> Titan is the largest Natural Satellite of planet
+   A) Mercury		B) Saturn
+   C) Neptune		D) Venus$
+
+Q> The time taken by sun to revolve around center of our galaxy is 
+   A) 50 million years		B) 100 million years
+   C) 225 million years		D) 365 million years$
+
+Q> When an ant bites, which irritating chemical it injects ?
+   A) Acetic Acid		B) Formic Acid
+   C) Tartaric Acid		D) Citric Acid$
+
+Q> Which of the following has longest Small Intestine ?
+   A) Carnivore		B) Omnivore
+   C) Herbivore		D) Autotroph$
+
+Q> At which temperature water is found in all three states of matter ?
+   A) 273.16 K		B) 373.15 K
+   C) 273.26 K    	D) 273.15 K$
+  
+
+
