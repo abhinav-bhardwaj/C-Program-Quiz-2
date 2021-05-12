@@ -1,3 +1,3 @@
 # C++ QUIZ 2
-  A quiz written in C++
+  A MCQ quiz written in C++
   
