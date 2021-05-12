@@ -1,3 +1,3 @@
-# QUIZ 2
+# C++ QUIZ 2
   A quiz written in C++
   
